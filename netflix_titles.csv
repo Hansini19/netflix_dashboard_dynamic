@@ -1,0 +1,301 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s0001,Movie,Stranger Nights,Priya Patel,"Actor B, Actor F",India,"November 24, 2023",1985,G,114 min,Dramas,A gripping tale of love and betrayal.
+s0002,Movie,Midnight City 78,Alex Kim,"Actor F, Actor G",,"July 8, 2022",2017,TV-14,60 min,Documentaries,A heartfelt comedy about friendship.
+s0003,TV Show,Family Ties,Priya Patel,"Actor A, Actor G, Actor D",India,"June 28, 2020",2018,TV-14,1 Seasons,Sci-Fi & Fantasy,A thrilling chase across continents.
+s0004,Movie,The Last Chef 38,Liam O'Connor,"Actor F, Actor A",United States,"November 8, 2019",1985,TV-PG,89 min,Comedies,A documentary on climate change and hope.
+s0005,TV Show,Digital Wars,Liam O'Connor,"Actor C, Actor G",Canada,"November 9, 2016",2018,NR,3 Seasons,Action & Adventure,An inspiring journey through the world of tech.
+s0006,TV Show,The Last Chef,Priya Patel,"Actor G, Actor A, Actor B",United States,"June 13, 2019",1984,PG-13,10 Seasons,Crime TV Shows,An inspiring journey through the world of tech.
+s0007,TV Show,The Last Chef,,"Actor C, Actor B",Canada,"December 18, 2023",1996,NR,10 Seasons,Kids' TV,A thrilling chase across continents.
+s0008,TV Show,Quantum Leap 18,,Actor G,United States,"February 5, 2017",2023,R,10 Seasons,Comedies,A documentary on climate change and hope.
+s0009,TV Show,Silent Echoes,Chen Wei,Actor F,India,"November 18, 2019",2021,TV-14,2 Seasons,Romantic Movies,A documentary on climate change and hope.
+s0010,Movie,Digital Wars 93,Chen Wei,"Actor E, Actor A",France,"November 17, 2024",1992,PG-13,107 min,Documentaries,A thrilling chase across continents.
+s0011,Movie,Silent Echoes,Alex Kim,Actor C,France,"April 2, 2018",2016,TV-MA,70 min,Sci-Fi & Fantasy,An investigative look into modern crime.
+s0012,Movie,The Long Road,John Smith,"Actor E, Actor B, Actor C, Actor D",Canada,"September 25, 2018",1999,R,145 min,Crime TV Shows,A documentary on climate change and hope.
+s0013,TV Show,Cooking with Stars 9,Liam O'Connor,Actor E,,"April 19, 2018",1980,TV-MA,1 Seasons,Action & Adventure,A gripping tale of love and betrayal.
+s0014,Movie,Family Ties 31,Chen Wei,"Actor B, Actor E, Actor G, Actor D",Canada,"August 26, 2021",1992,TV-MA,72 min,Kids' TV,A family learns the meaning of sacrifice.
+s0015,TV Show,Office Romance,Alex Kim,Actor A,Spain,"December 11, 2016",1995,PG-13,4 Seasons,Sci-Fi & Fantasy,An inspiring journey through the world of tech.
+s0016,TV Show,Galaxy Quest,Priya Patel,Actor D,,"February 2, 2023",1980,TV-MA,4 Seasons,Documentaries,A documentary on climate change and hope.
+s0017,TV Show,Undercover Agent 52,Alex Kim,"Actor D, Actor A",Spain,"May 26, 2022",1998,R,9 Seasons,Sci-Fi & Fantasy,An inspiring journey through the world of tech.
+s0018,Movie,Ocean Secrets 8,Alex Kim,"Actor A, Actor G, Actor E",Australia,"September 28, 2023",1990,TV-MA,125 min,Comedies,An investigative look into modern crime.
+s0019,Movie,The Final Episode,Priya Patel,"Actor A, Actor E, Actor B, Actor G",India,"July 22, 2024",2016,G,100 min,Romantic Movies,An inspiring journey through the world of tech.
+s0020,TV Show,Lost in Translation,John Smith,"Actor D, Actor C, Actor A",United States,"August 20, 2024",1986,TV-MA,9 Seasons,Action & Adventure,A thrilling chase across continents.
+s0021,TV Show,Hidden Truths,Maria Lopez,"Actor C, Actor G",United Kingdom,"August 27, 2023",1999,G,9 Seasons,Dramas,A heartfelt comedy about friendship.
+s0022,TV Show,Cooking with Stars,John Smith,"Actor A, Actor G, Actor E",United Kingdom,"May 10, 2024",1993,NR,6 Seasons,Action & Adventure,A heartfelt comedy about friendship.
+s0023,TV Show,Memoirs,Alex Kim,Actor F,Spain,"May 2, 2015",2001,TV-PG,3 Seasons,Romantic Movies,An inspiring journey through the world of tech.
+s0024,TV Show,The Long Road,Alex Kim,Actor A,United Kingdom,"September 2, 2020",2017,G,3 Seasons,Kids' TV,An inspiring journey through the world of tech.
+s0025,Movie,Ocean Secrets,Alex Kim,"Actor B, Actor F, Actor G",India,"June 25, 2023",2006,G,79 min,Action & Adventure,An investigative look into modern crime.
+s0026,Movie,Galaxy Quest,Alex Kim,"Actor F, Actor C",Spain,"November 28, 2018",1997,PG-13,149 min,Comedies,A documentary on climate change and hope.
+s0027,Movie,Undercover Agent 59,Liam O'Connor,"Actor G, Actor B, Actor F",United States,"November 7, 2021",2001,TV-14,68 min,Romantic Movies,A family learns the meaning of sacrifice.
+s0028,TV Show,The Long Road,Alex Kim,Actor C,United Kingdom,"October 9, 2015",1986,G,7 Seasons,Crime TV Shows,A heartfelt comedy about friendship.
+s0029,TV Show,Office Romance,Maria Lopez,"Actor E, Actor B, Actor C, Actor A",Spain,"January 17, 2023",2023,NR,4 Seasons,Crime TV Shows,A documentary on climate change and hope.
+s0030,Movie,Family Ties,Maria Lopez,"Actor E, Actor C, Actor D",Germany,"July 23, 2019",2015,PG-13,84 min,Kids' TV,A heartfelt comedy about friendship.
+s0031,TV Show,Galaxy Quest,Chen Wei,"Actor E, Actor A, Actor C, Actor G",Canada,"July 26, 2024",2018,NR,6 Seasons,Sci-Fi & Fantasy,A documentary on climate change and hope.
+s0032,TV Show,Midnight City,John Smith,Actor C,,"November 21, 2024",2001,TV-MA,4 Seasons,Romantic Movies,An inspiring journey through the world of tech.
+s0033,Movie,Hidden Truths 32,,Actor D,Spain,"November 19, 2018",2024,R,123 min,Kids' TV,An inspiring journey through the world of tech.
+s0034,Movie,Stranger Nights,Maria Lopez,"Actor B, Actor G, Actor E, Actor D",United States,"September 8, 2016",2009,PG-13,119 min,Crime TV Shows,An investigative look into modern crime.
+s0035,TV Show,Silent Echoes,Fatima Zahra,"Actor B, Actor F, Actor D, Actor E",France,"April 27, 2019",2013,R,4 Seasons,Romantic Movies,A documentary on climate change and hope.
+s0036,Movie,Ocean Secrets 43,Liam O'Connor,Actor B,United Kingdom,"April 13, 2017",1993,TV-MA,113 min,Kids' TV,A family learns the meaning of sacrifice.
+s0037,TV Show,Office Romance 54,Fatima Zahra,Actor G,Spain,"August 1, 2020",1999,TV-PG,7 Seasons,Kids' TV,A thrilling chase across continents.
+s0038,Movie,Undercover Agent 56,,Actor D,Germany,"November 22, 2021",1990,TV-PG,119 min,Documentaries,A thrilling chase across continents.
+s0039,Movie,The Last Chef,Alex Kim,Actor F,Spain,"March 28, 2022",1991,TV-MA,93 min,Kids' TV,A family learns the meaning of sacrifice.
+s0040,Movie,Digital Wars,Fatima Zahra,"Actor G, Actor D, Actor C",India,"August 1, 2023",1983,TV-14,88 min,Comedies,An investigative look into modern crime.
+s0041,Movie,Stranger Nights,Priya Patel,Actor E,United Kingdom,"April 5, 2022",2022,TV-MA,132 min,Action & Adventure,A documentary on climate change and hope.
+s0042,TV Show,Quantum Leap 78,Maria Lopez,"Actor C, Actor A",United States,"May 19, 2021",2005,NR,4 Seasons,Comedies,A thrilling chase across continents.
+s0043,Movie,Cooking with Stars,Chen Wei,Actor G,United States,"June 18, 2021",2022,TV-14,68 min,Crime TV Shows,A gripping tale of love and betrayal.
+s0044,TV Show,Undercover Agent 47,,"Actor D, Actor B",,"November 9, 2024",2014,TV-PG,8 Seasons,Sci-Fi & Fantasy,A documentary on climate change and hope.
+s0045,TV Show,Family Ties,Maria Lopez,"Actor D, Actor B, Actor G",Spain,"June 1, 2022",2000,PG-13,8 Seasons,Action & Adventure,A family learns the meaning of sacrifice.
+s0046,TV Show,Family Ties,Chen Wei,Actor E,Canada,"February 8, 2021",2011,G,4 Seasons,Sci-Fi & Fantasy,A heartfelt comedy about friendship.
+s0047,TV Show,Digital Wars,Maria Lopez,"Actor B, Actor D, Actor G",France,"November 19, 2020",2010,G,9 Seasons,Crime TV Shows,A documentary on climate change and hope.
+s0048,TV Show,Quantum Leap,Chen Wei,"Actor C, Actor B, Actor A",Canada,"June 4, 2023",2024,PG-13,4 Seasons,Action & Adventure,A heartfelt comedy about friendship.
+s0049,TV Show,Crime Line,Chen Wei,Actor G,Canada,"May 8, 2020",1991,TV-14,1 Seasons,Documentaries,A family learns the meaning of sacrifice.
+s0050,Movie,Love & Algorithms,John Smith,"Actor A, Actor G, Actor E, Actor C",Australia,"August 15, 2020",1991,TV-MA,92 min,Sci-Fi & Fantasy,A gripping tale of love and betrayal.
+s0051,Movie,The Last Chef,Alex Kim,"Actor B, Actor E",France,"February 8, 2016",2015,TV-PG,113 min,Action & Adventure,An investigative look into modern crime.
+s0052,TV Show,Digital Wars,Chen Wei,"Actor C, Actor E, Actor F, Actor A",India,"April 21, 2018",1996,NR,2 Seasons,Documentaries,An inspiring journey through the world of tech.
+s0053,Movie,The Long Road 1,Fatima Zahra,"Actor F, Actor E, Actor D, Actor C",United States,"April 10, 2019",2024,TV-PG,118 min,Comedies,A heartfelt comedy about friendship.
+s0054,Movie,Crime Line,Priya Patel,"Actor A, Actor E, Actor B, Actor F",France,"March 3, 2015",1990,TV-PG,99 min,Romantic Movies,A documentary on climate change and hope.
+s0055,Movie,Digital Wars,Fatima Zahra,"Actor E, Actor G, Actor D",Australia,"February 20, 2015",2007,NR,101 min,Romantic Movies,A gripping tale of love and betrayal.
+s0056,Movie,Lost in Translation,Alex Kim,"Actor E, Actor A, Actor B",Australia,"September 21, 2022",1997,PG-13,134 min,Kids' TV,A heartfelt comedy about friendship.
+s0057,TV Show,The Final Episode,Fatima Zahra,"Actor C, Actor F, Actor A",United Kingdom,"June 14, 2022",1998,NR,7 Seasons,Dramas,A documentary on climate change and hope.
+s0058,Movie,Family Ties,Maria Lopez,"Actor G, Actor E, Actor A, Actor D",Spain,"January 7, 2023",2003,G,123 min,Sci-Fi & Fantasy,An investigative look into modern crime.
+s0059,Movie,Midnight City,John Smith,"Actor D, Actor F, Actor G",India,"January 21, 2024",1995,NR,80 min,Romantic Movies,A thrilling chase across continents.
+s0060,Movie,The Long Road,Priya Patel,Actor D,India,"November 27, 2017",2011,NR,97 min,Romantic Movies,A documentary on climate change and hope.
+s0061,TV Show,Undercover Agent 71,John Smith,"Actor B, Actor E, Actor F, Actor G",India,"May 25, 2021",2001,TV-PG,9 Seasons,Romantic Movies,An investigative look into modern crime.
+s0062,Movie,Ocean Secrets,,"Actor D, Actor E",Australia,"June 11, 2023",2014,R,118 min,Crime TV Shows,An investigative look into modern crime.
+s0063,Movie,Lost in Translation,Priya Patel,"Actor A, Actor C, Actor D, Actor E",Spain,"November 26, 2017",2011,TV-MA,76 min,Crime TV Shows,An investigative look into modern crime.
+s0064,Movie,Digital Wars 59,Alex Kim,"Actor D, Actor F",United Kingdom,"February 16, 2019",2001,G,148 min,Kids' TV,A heartfelt comedy about friendship.
+s0065,Movie,Family Ties,Fatima Zahra,"Actor F, Actor G, Actor D",,"January 20, 2016",1995,NR,147 min,Romantic Movies,An inspiring journey through the world of tech.
+s0066,Movie,Office Romance,Maria Lopez,"Actor B, Actor F, Actor C, Actor A",United States,"June 26, 2015",1998,TV-14,107 min,Kids' TV,An inspiring journey through the world of tech.
+s0067,Movie,Memoirs,John Smith,"Actor B, Actor A",Spain,"October 22, 2018",2011,G,78 min,Action & Adventure,A documentary on climate change and hope.
+s0068,TV Show,Digital Wars,Alex Kim,"Actor C, Actor F, Actor E, Actor B",India,"August 12, 2024",1999,NR,7 Seasons,Romantic Movies,A documentary on climate change and hope.
+s0069,TV Show,Midnight City,,Actor B,Spain,"October 12, 2024",1998,NR,5 Seasons,Dramas,An investigative look into modern crime.
+s0070,TV Show,Crime Line 88,Alex Kim,"Actor G, Actor C, Actor B, Actor F",Canada,"November 7, 2024",1996,NR,3 Seasons,Comedies,A heartfelt comedy about friendship.
+s0071,Movie,Ocean Secrets,Alex Kim,"Actor F, Actor B, Actor A",France,"June 24, 2021",1991,PG-13,76 min,Crime TV Shows,A thrilling chase across continents.
+s0072,TV Show,Galaxy Quest,,"Actor F, Actor C, Actor A",Australia,"February 5, 2018",2023,NR,7 Seasons,Crime TV Shows,A gripping tale of love and betrayal.
+s0073,TV Show,Stranger Nights,Maria Lopez,"Actor C, Actor F, Actor G, Actor D",Germany,"February 22, 2018",2010,TV-MA,10 Seasons,Crime TV Shows,A thrilling chase across continents.
+s0074,Movie,The Final Episode,,"Actor F, Actor D, Actor A",United Kingdom,"January 2, 2019",2011,TV-MA,72 min,Action & Adventure,A thrilling chase across continents.
+s0075,Movie,The Last Chef,Fatima Zahra,"Actor D, Actor F",India,"August 20, 2021",1997,TV-MA,148 min,Crime TV Shows,An inspiring journey through the world of tech.
+s0076,TV Show,Digital Wars,Liam O'Connor,Actor F,Germany,"September 21, 2020",1983,R,5 Seasons,Action & Adventure,A gripping tale of love and betrayal.
+s0077,TV Show,The Final Episode,Alex Kim,Actor G,Germany,"April 5, 2024",1993,TV-MA,9 Seasons,Action & Adventure,A thrilling chase across continents.
+s0078,Movie,Lost in Translation,John Smith,Actor C,United Kingdom,"March 18, 2019",1991,TV-MA,144 min,Dramas,An inspiring journey through the world of tech.
+s0079,Movie,Quantum Leap,Priya Patel,"Actor A, Actor B, Actor C",United States,"March 24, 2021",2013,TV-MA,68 min,Sci-Fi & Fantasy,A documentary on climate change and hope.
+s0080,TV Show,Memoirs,,"Actor E, Actor A",,"May 15, 2015",1983,R,7 Seasons,Kids' TV,A heartfelt comedy about friendship.
+s0081,Movie,Undercover Agent,,Actor A,Germany,"October 5, 2016",1988,TV-14,139 min,Crime TV Shows,A documentary on climate change and hope.
+s0082,TV Show,Digital Wars,Fatima Zahra,Actor G,India,"November 21, 2023",1993,R,8 Seasons,Action & Adventure,A documentary on climate change and hope.
+s0083,TV Show,Digital Wars,Maria Lopez,"Actor D, Actor C, Actor F",Germany,"March 22, 2022",1984,TV-MA,2 Seasons,Comedies,A documentary on climate change and hope.
+s0084,Movie,Quantum Leap,Alex Kim,"Actor F, Actor A, Actor D",Germany,"November 25, 2021",1983,TV-14,136 min,Romantic Movies,A family learns the meaning of sacrifice.
+s0085,Movie,Riverbend,John Smith,"Actor B, Actor A, Actor C, Actor E",India,"May 19, 2018",2007,TV-PG,131 min,Dramas,A thrilling chase across continents.
+s0086,TV Show,Stranger Nights 90,Chen Wei,"Actor C, Actor A, Actor B",United Kingdom,"October 22, 2021",1984,PG-13,1 Seasons,Comedies,A heartfelt comedy about friendship.
+s0087,Movie,The Last Chef,Liam O'Connor,"Actor C, Actor G",Germany,"October 20, 2016",1983,PG-13,80 min,Dramas,A heartfelt comedy about friendship.
+s0088,Movie,Crime Line,Fatima Zahra,"Actor E, Actor D, Actor F, Actor C",Canada,"September 4, 2020",2007,TV-MA,96 min,Sci-Fi & Fantasy,A thrilling chase across continents.
+s0089,TV Show,Love & Algorithms 77,Alex Kim,Actor B,France,"April 25, 2017",1996,TV-14,6 Seasons,Comedies,A gripping tale of love and betrayal.
+s0090,TV Show,Office Romance 49,Priya Patel,"Actor A, Actor D, Actor G",Spain,"January 15, 2016",2000,G,7 Seasons,Kids' TV,A heartfelt comedy about friendship.
+s0091,TV Show,Ocean Secrets 3,Liam O'Connor,"Actor G, Actor E",Australia,"December 12, 2016",2007,TV-PG,2 Seasons,Action & Adventure,A documentary on climate change and hope.
+s0092,TV Show,Memoirs 40,Liam O'Connor,"Actor C, Actor B",India,"September 21, 2016",2013,G,4 Seasons,Crime TV Shows,A family learns the meaning of sacrifice.
+s0093,Movie,Lost in Translation 33,Priya Patel,"Actor E, Actor B",India,"March 25, 2022",2009,TV-PG,132 min,Sci-Fi & Fantasy,A heartfelt comedy about friendship.
+s0094,TV Show,Family Ties 9,,"Actor F, Actor C, Actor G, Actor A",Germany,"September 3, 2019",2009,R,1 Seasons,Dramas,A family learns the meaning of sacrifice.
+s0095,TV Show,The Final Episode,Maria Lopez,"Actor D, Actor E, Actor F, Actor A",Australia,"October 21, 2018",2000,G,8 Seasons,Documentaries,A gripping tale of love and betrayal.
+s0096,TV Show,Cooking with Stars,Liam O'Connor,Actor E,United Kingdom,"January 8, 2022",2008,G,9 Seasons,Documentaries,A family learns the meaning of sacrifice.
+s0097,TV Show,Ocean Secrets,Liam O'Connor,Actor G,Germany,"February 11, 2016",2015,NR,7 Seasons,Romantic Movies,A family learns the meaning of sacrifice.
+s0098,Movie,Family Ties 85,John Smith,"Actor C, Actor F, Actor D",United Kingdom,"October 23, 2016",1999,G,108 min,Crime TV Shows,An investigative look into modern crime.
+s0099,Movie,Memoirs 86,Fatima Zahra,"Actor A, Actor C, Actor F",United Kingdom,"April 11, 2022",1992,PG-13,77 min,Documentaries,A gripping tale of love and betrayal.
+s0100,TV Show,Cooking with Stars,Alex Kim,"Actor G, Actor E, Actor B",Spain,"March 6, 2017",2024,TV-PG,10 Seasons,Documentaries,A heartfelt comedy about friendship.
+s0101,TV Show,Love & Algorithms,Priya Patel,"Actor E, Actor C, Actor D, Actor B",,"April 10, 2022",1992,TV-14,10 Seasons,Sci-Fi & Fantasy,A documentary on climate change and hope.
+s0102,TV Show,The Last Chef,Fatima Zahra,"Actor G, Actor B",United Kingdom,"May 2, 2022",2003,G,2 Seasons,Comedies,A family learns the meaning of sacrifice.
+s0103,Movie,Galaxy Quest,John Smith,"Actor A, Actor B, Actor D, Actor C",United States,"July 2, 2021",2012,TV-14,90 min,Kids' TV,A gripping tale of love and betrayal.
+s0104,TV Show,Lost in Translation 13,Liam O'Connor,"Actor B, Actor A",France,"August 23, 2017",2010,R,10 Seasons,Dramas,A gripping tale of love and betrayal.
+s0105,Movie,Crime Line 20,Fatima Zahra,Actor G,France,"April 10, 2016",1983,PG-13,113 min,Sci-Fi & Fantasy,A gripping tale of love and betrayal.
+s0106,Movie,Undercover Agent,Alex Kim,"Actor F, Actor B",France,"July 1, 2024",2002,PG-13,133 min,Kids' TV,An inspiring journey through the world of tech.
+s0107,Movie,Memoirs,Maria Lopez,Actor D,Australia,"January 21, 2021",2003,TV-14,62 min,Crime TV Shows,An investigative look into modern crime.
+s0108,Movie,Quantum Leap 85,Maria Lopez,"Actor B, Actor A, Actor C",,"June 27, 2017",2023,R,149 min,Sci-Fi & Fantasy,A heartfelt comedy about friendship.
+s0109,Movie,Hidden Truths 59,Alex Kim,"Actor B, Actor A, Actor G",United States,"June 10, 2023",2005,TV-PG,129 min,Sci-Fi & Fantasy,A family learns the meaning of sacrifice.
+s0110,Movie,Midnight City,Alex Kim,"Actor C, Actor A, Actor G",Spain,"July 24, 2022",2004,TV-14,83 min,Sci-Fi & Fantasy,A heartfelt comedy about friendship.
+s0111,TV Show,Quantum Leap,Chen Wei,Actor F,Spain,"February 14, 2024",1991,G,5 Seasons,Crime TV Shows,A gripping tale of love and betrayal.
+s0112,Movie,Family Ties,Chen Wei,"Actor E, Actor F, Actor D, Actor B",Australia,"June 15, 2015",2002,G,115 min,Romantic Movies,A heartfelt comedy about friendship.
+s0113,Movie,The Final Episode,Fatima Zahra,"Actor E, Actor F, Actor B",United States,"March 28, 2024",2023,TV-PG,116 min,Dramas,An inspiring journey through the world of tech.
+s0114,Movie,Lost in Translation,Liam O'Connor,"Actor D, Actor E, Actor A",United Kingdom,"November 15, 2020",2003,R,69 min,Documentaries,A thrilling chase across continents.
+s0115,TV Show,The Last Chef,Chen Wei,"Actor A, Actor G",United Kingdom,"August 17, 2021",2015,TV-MA,5 Seasons,Romantic Movies,A heartfelt comedy about friendship.
+s0116,TV Show,Midnight City,Chen Wei,"Actor B, Actor A, Actor G, Actor F",Australia,"March 23, 2022",1985,TV-PG,6 Seasons,Crime TV Shows,A heartfelt comedy about friendship.
+s0117,Movie,The Long Road,Chen Wei,"Actor F, Actor G",United Kingdom,"June 17, 2018",1987,PG-13,77 min,Action & Adventure,An investigative look into modern crime.
+s0118,TV Show,Stranger Nights,Liam O'Connor,"Actor G, Actor E, Actor B, Actor A",India,"May 13, 2022",2013,R,7 Seasons,Comedies,An inspiring journey through the world of tech.
+s0119,TV Show,The Final Episode,Liam O'Connor,"Actor G, Actor E",United Kingdom,"March 14, 2023",1983,TV-PG,2 Seasons,Documentaries,A family learns the meaning of sacrifice.
+s0120,Movie,Galaxy Quest,Priya Patel,"Actor E, Actor C, Actor A",France,"April 21, 2023",1997,PG-13,140 min,Romantic Movies,A thrilling chase across continents.
+s0121,Movie,Memoirs,John Smith,"Actor F, Actor E",Germany,"October 2, 2015",1985,TV-MA,142 min,Romantic Movies,A heartfelt comedy about friendship.
+s0122,Movie,Riverbend,Alex Kim,"Actor F, Actor E, Actor C, Actor G",Australia,"April 26, 2021",1999,R,69 min,Dramas,An inspiring journey through the world of tech.
+s0123,TV Show,Office Romance,Priya Patel,"Actor E, Actor B, Actor C",Germany,"December 28, 2020",2005,PG-13,6 Seasons,Comedies,A family learns the meaning of sacrifice.
+s0124,Movie,Digital Wars 58,Priya Patel,"Actor A, Actor G",France,"July 28, 2024",2006,PG-13,80 min,Crime TV Shows,A thrilling chase across continents.
+s0125,TV Show,Midnight City,,"Actor D, Actor C, Actor G, Actor A",India,"July 17, 2022",1995,PG-13,10 Seasons,Crime TV Shows,A gripping tale of love and betrayal.
+s0126,Movie,Ocean Secrets,,"Actor E, Actor A, Actor F",Spain,"March 9, 2020",2005,TV-14,65 min,Kids' TV,A gripping tale of love and betrayal.
+s0127,Movie,Quantum Leap,Maria Lopez,"Actor E, Actor D, Actor G, Actor C",India,"March 4, 2021",2003,TV-PG,103 min,Crime TV Shows,An investigative look into modern crime.
+s0128,Movie,Midnight City,Fatima Zahra,Actor A,United States,"March 23, 2020",2010,G,118 min,Documentaries,A thrilling chase across continents.
+s0129,Movie,Family Ties,Liam O'Connor,"Actor D, Actor E",France,"October 11, 2023",2012,G,122 min,Romantic Movies,A documentary on climate change and hope.
+s0130,Movie,Quantum Leap,Maria Lopez,"Actor E, Actor C, Actor A, Actor D",France,"November 26, 2024",2016,PG-13,66 min,Sci-Fi & Fantasy,An inspiring journey through the world of tech.
+s0131,TV Show,Hidden Truths,Priya Patel,Actor E,India,"April 1, 2022",2000,R,3 Seasons,Kids' TV,A heartfelt comedy about friendship.
+s0132,Movie,Office Romance,,Actor F,United Kingdom,"September 7, 2023",2000,NR,121 min,Kids' TV,A family learns the meaning of sacrifice.
+s0133,Movie,Digital Wars,Liam O'Connor,"Actor F, Actor G, Actor C",Australia,"April 8, 2019",2015,TV-14,88 min,Romantic Movies,An investigative look into modern crime.
+s0134,TV Show,Midnight City,,"Actor D, Actor C, Actor E",France,"May 4, 2024",2023,G,7 Seasons,Kids' TV,An investigative look into modern crime.
+s0135,TV Show,Hidden Truths,Chen Wei,Actor C,Australia,"November 9, 2022",1993,PG-13,9 Seasons,Romantic Movies,A thrilling chase across continents.
+s0136,TV Show,Hidden Truths 95,Priya Patel,"Actor A, Actor F",,"April 21, 2018",1983,TV-MA,7 Seasons,Crime TV Shows,A heartfelt comedy about friendship.
+s0137,TV Show,Cooking with Stars,John Smith,Actor E,United Kingdom,"July 21, 2022",2010,NR,4 Seasons,Romantic Movies,A family learns the meaning of sacrifice.
+s0138,TV Show,Love & Algorithms,Maria Lopez,"Actor E, Actor F",United States,"March 14, 2017",1982,TV-PG,7 Seasons,Sci-Fi & Fantasy,An inspiring journey through the world of tech.
+s0139,TV Show,Love & Algorithms 73,Maria Lopez,"Actor C, Actor D, Actor E",,"August 5, 2023",2009,TV-14,4 Seasons,Comedies,A family learns the meaning of sacrifice.
+s0140,Movie,Digital Wars,John Smith,Actor F,Germany,"May 19, 2018",1991,G,141 min,Kids' TV,An investigative look into modern crime.
+s0141,TV Show,Memoirs,Fatima Zahra,Actor B,United Kingdom,"August 11, 2018",1980,TV-14,7 Seasons,Action & Adventure,A documentary on climate change and hope.
+s0142,TV Show,Family Ties,Alex Kim,"Actor F, Actor C, Actor B",United States,"November 4, 2022",1999,PG-13,7 Seasons,Romantic Movies,A heartfelt comedy about friendship.
+s0143,Movie,Ocean Secrets,Priya Patel,"Actor B, Actor D",United Kingdom,"August 24, 2024",2003,R,149 min,Sci-Fi & Fantasy,An investigative look into modern crime.
+s0144,Movie,Lost in Translation,Maria Lopez,"Actor E, Actor F, Actor C, Actor A",India,"January 27, 2023",2012,PG-13,133 min,Documentaries,An inspiring journey through the world of tech.
+s0145,TV Show,Memoirs,Priya Patel,"Actor A, Actor E, Actor D, Actor G",Australia,"March 17, 2021",2009,G,1 Seasons,Sci-Fi & Fantasy,A heartfelt comedy about friendship.
+s0146,TV Show,Stranger Nights,Alex Kim,"Actor E, Actor A",United States,"July 12, 2016",2014,TV-MA,2 Seasons,Sci-Fi & Fantasy,A gripping tale of love and betrayal.
+s0147,TV Show,Office Romance 18,Fatima Zahra,"Actor D, Actor G, Actor F",Spain,"February 22, 2023",1988,NR,6 Seasons,Comedies,An inspiring journey through the world of tech.
+s0148,TV Show,Memoirs 29,Alex Kim,Actor C,Australia,"November 24, 2023",2007,G,7 Seasons,Action & Adventure,An inspiring journey through the world of tech.
+s0149,TV Show,Quantum Leap 25,Maria Lopez,Actor G,Spain,"October 25, 2015",1995,PG-13,2 Seasons,Comedies,A thrilling chase across continents.
+s0150,Movie,Digital Wars,Alex Kim,"Actor F, Actor A",Spain,"August 8, 2023",1993,TV-PG,67 min,Documentaries,A thrilling chase across continents.
+s0151,TV Show,Lost in Translation,Liam O'Connor,"Actor B, Actor C, Actor G",,"April 14, 2019",1997,TV-MA,9 Seasons,Documentaries,A heartfelt comedy about friendship.
+s0152,TV Show,The Long Road,Liam O'Connor,"Actor G, Actor E, Actor C, Actor D",Spain,"March 10, 2021",1991,TV-PG,9 Seasons,Sci-Fi & Fantasy,An inspiring journey through the world of tech.
+s0153,Movie,Ocean Secrets,John Smith,"Actor A, Actor E, Actor D, Actor F",,"September 5, 2021",1995,TV-14,86 min,Crime TV Shows,A heartfelt comedy about friendship.
+s0154,Movie,Digital Wars,Maria Lopez,"Actor A, Actor C",Spain,"November 20, 2024",1982,TV-PG,69 min,Action & Adventure,An investigative look into modern crime.
+s0155,Movie,Undercover Agent 43,Chen Wei,Actor B,Canada,"December 4, 2022",1995,NR,137 min,Action & Adventure,A documentary on climate change and hope.
+s0156,Movie,The Long Road,Chen Wei,"Actor D, Actor E, Actor C, Actor F",France,"June 17, 2022",2009,TV-MA,120 min,Crime TV Shows,An inspiring journey through the world of tech.
+s0157,TV Show,Family Ties,Priya Patel,"Actor A, Actor C",,"October 19, 2021",1998,PG-13,4 Seasons,Crime TV Shows,An inspiring journey through the world of tech.
+s0158,TV Show,Riverbend,,"Actor C, Actor D, Actor F",Australia,"March 24, 2020",1990,PG-13,9 Seasons,Sci-Fi & Fantasy,An inspiring journey through the world of tech.
+s0159,Movie,Memoirs 10,Alex Kim,Actor D,United Kingdom,"November 8, 2016",1989,TV-MA,87 min,Sci-Fi & Fantasy,A family learns the meaning of sacrifice.
+s0160,Movie,Silent Echoes,,"Actor A, Actor G, Actor E, Actor D",United States,"January 17, 2019",2014,TV-14,62 min,Kids' TV,An investigative look into modern crime.
+s0161,Movie,Cooking with Stars,John Smith,"Actor B, Actor E",,"May 27, 2020",1997,TV-PG,110 min,Comedies,A family learns the meaning of sacrifice.
+s0162,TV Show,Digital Wars,Priya Patel,"Actor F, Actor A, Actor G",India,"July 13, 2021",2015,R,1 Seasons,Dramas,A heartfelt comedy about friendship.
+s0163,Movie,The Final Episode,Fatima Zahra,"Actor E, Actor A, Actor G",United States,"April 7, 2024",2010,TV-14,65 min,Comedies,A heartfelt comedy about friendship.
+s0164,TV Show,The Long Road,Alex Kim,"Actor G, Actor C",United States,"April 19, 2017",2005,TV-MA,5 Seasons,Documentaries,A thrilling chase across continents.
+s0165,Movie,Riverbend,Fatima Zahra,"Actor D, Actor F, Actor B",India,"September 24, 2020",1983,TV-MA,115 min,Action & Adventure,An investigative look into modern crime.
+s0166,Movie,Family Ties,Fatima Zahra,"Actor A, Actor F, Actor C",Australia,"August 8, 2020",2015,R,115 min,Documentaries,A heartfelt comedy about friendship.
+s0167,TV Show,The Final Episode,Chen Wei,"Actor F, Actor A",India,"May 5, 2021",2020,PG-13,7 Seasons,Crime TV Shows,A family learns the meaning of sacrifice.
+s0168,Movie,The Final Episode 40,,"Actor G, Actor C, Actor A",United Kingdom,"February 6, 2021",2008,G,131 min,Kids' TV,A gripping tale of love and betrayal.
+s0169,Movie,The Final Episode,Maria Lopez,"Actor G, Actor D, Actor A",France,"July 13, 2016",2015,PG-13,133 min,Documentaries,A heartfelt comedy about friendship.
+s0170,TV Show,Galaxy Quest 39,Chen Wei,"Actor B, Actor A, Actor G, Actor D",France,"July 10, 2022",1984,TV-14,5 Seasons,Action & Adventure,A heartfelt comedy about friendship.
+s0171,TV Show,Silent Echoes,,Actor B,France,"January 13, 2020",2019,R,6 Seasons,Sci-Fi & Fantasy,A family learns the meaning of sacrifice.
+s0172,TV Show,Silent Echoes 42,Priya Patel,"Actor C, Actor B, Actor D, Actor G",France,"December 23, 2022",2016,TV-PG,4 Seasons,Crime TV Shows,A documentary on climate change and hope.
+s0173,TV Show,The Last Chef,Priya Patel,"Actor F, Actor E",United States,"December 15, 2018",2008,TV-PG,5 Seasons,Comedies,An investigative look into modern crime.
+s0174,TV Show,Undercover Agent 39,Priya Patel,"Actor F, Actor B, Actor D",Spain,"February 15, 2024",2010,G,7 Seasons,Kids' TV,A thrilling chase across continents.
+s0175,Movie,Quantum Leap,Maria Lopez,Actor G,Canada,"November 22, 2020",1990,NR,138 min,Dramas,A thrilling chase across continents.
+s0176,TV Show,Family Ties,Fatima Zahra,Actor A,India,"May 8, 2023",2013,G,10 Seasons,Action & Adventure,A documentary on climate change and hope.
+s0177,TV Show,The Last Chef,John Smith,"Actor A, Actor D, Actor G",France,"July 3, 2016",1989,TV-14,5 Seasons,Crime TV Shows,A documentary on climate change and hope.
+s0178,Movie,Memoirs,,Actor D,Australia,"June 3, 2019",1982,TV-PG,150 min,Comedies,A gripping tale of love and betrayal.
+s0179,TV Show,Cooking with Stars,John Smith,"Actor E, Actor B",,"March 11, 2023",2007,R,4 Seasons,Kids' TV,A heartfelt comedy about friendship.
+s0180,Movie,Galaxy Quest,Fatima Zahra,"Actor A, Actor F, Actor E, Actor B",Australia,"October 14, 2021",1980,NR,87 min,Action & Adventure,A family learns the meaning of sacrifice.
+s0181,Movie,Riverbend 69,John Smith,"Actor C, Actor B, Actor D",India,"May 22, 2022",2013,NR,100 min,Kids' TV,A thrilling chase across continents.
+s0182,TV Show,Riverbend 46,,"Actor G, Actor F",France,"October 19, 2016",2023,PG-13,6 Seasons,Comedies,An inspiring journey through the world of tech.
+s0183,TV Show,Cooking with Stars 89,John Smith,"Actor D, Actor E, Actor B, Actor G",Spain,"March 16, 2023",2024,NR,3 Seasons,Documentaries,A documentary on climate change and hope.
+s0184,TV Show,Hidden Truths 58,Alex Kim,"Actor A, Actor D, Actor B",Canada,"July 18, 2023",2021,R,7 Seasons,Sci-Fi & Fantasy,A documentary on climate change and hope.
+s0185,TV Show,Undercover Agent 73,Alex Kim,"Actor C, Actor A",France,"April 18, 2019",1990,TV-PG,8 Seasons,Sci-Fi & Fantasy,A thrilling chase across continents.
+s0186,Movie,Riverbend 70,Liam O'Connor,Actor G,Australia,"September 7, 2021",1986,NR,143 min,Action & Adventure,A family learns the meaning of sacrifice.
+s0187,Movie,Digital Wars,Maria Lopez,"Actor G, Actor A, Actor B, Actor E",Germany,"December 20, 2021",1990,G,77 min,Action & Adventure,An investigative look into modern crime.
+s0188,Movie,Love & Algorithms,Chen Wei,"Actor C, Actor F",France,"May 19, 2019",2012,NR,72 min,Documentaries,An investigative look into modern crime.
+s0189,TV Show,Love & Algorithms,John Smith,"Actor B, Actor G",Germany,"April 25, 2021",2011,PG-13,10 Seasons,Romantic Movies,A heartfelt comedy about friendship.
+s0190,TV Show,The Last Chef,Maria Lopez,"Actor E, Actor F, Actor C, Actor G",Australia,"August 11, 2024",1980,TV-PG,2 Seasons,Sci-Fi & Fantasy,A heartfelt comedy about friendship.
+s0191,TV Show,The Final Episode,Fatima Zahra,"Actor D, Actor B",Australia,"May 11, 2019",2001,G,10 Seasons,Documentaries,A thrilling chase across continents.
+s0192,TV Show,Family Ties,Alex Kim,Actor A,Australia,"January 4, 2017",2008,R,1 Seasons,Kids' TV,An inspiring journey through the world of tech.
+s0193,Movie,Ocean Secrets 36,Maria Lopez,"Actor C, Actor A, Actor G",United Kingdom,"January 13, 2019",2024,TV-PG,89 min,Kids' TV,A heartfelt comedy about friendship.
+s0194,Movie,Cooking with Stars 62,Maria Lopez,"Actor E, Actor B",,"November 15, 2015",1980,NR,103 min,Comedies,An investigative look into modern crime.
+s0195,TV Show,Hidden Truths,Priya Patel,"Actor A, Actor F, Actor G, Actor E",Germany,"June 10, 2017",2004,TV-PG,3 Seasons,Documentaries,A gripping tale of love and betrayal.
+s0196,Movie,Silent Echoes,,"Actor F, Actor B, Actor G",Spain,"October 22, 2022",1993,TV-MA,72 min,Documentaries,An investigative look into modern crime.
+s0197,Movie,Riverbend,Liam O'Connor,"Actor C, Actor B, Actor F, Actor G",India,"April 18, 2024",2018,NR,137 min,Romantic Movies,An investigative look into modern crime.
+s0198,Movie,Ocean Secrets 78,Priya Patel,"Actor C, Actor F, Actor A, Actor B",Australia,"July 4, 2018",2011,NR,136 min,Comedies,A thrilling chase across continents.
+s0199,Movie,Quantum Leap,John Smith,"Actor G, Actor E, Actor D, Actor C",,"November 6, 2022",1984,TV-MA,135 min,Comedies,A gripping tale of love and betrayal.
+s0200,TV Show,Midnight City 8,Fatima Zahra,"Actor F, Actor G, Actor E",Spain,"July 23, 2021",1985,NR,9 Seasons,Documentaries,A family learns the meaning of sacrifice.
+s0201,Movie,Ocean Secrets 27,John Smith,"Actor D, Actor E, Actor A",France,"December 14, 2018",1983,PG-13,71 min,Kids' TV,A gripping tale of love and betrayal.
+s0202,TV Show,Silent Echoes,Chen Wei,"Actor A, Actor G",United Kingdom,"December 1, 2017",2011,TV-14,9 Seasons,Romantic Movies,An inspiring journey through the world of tech.
+s0203,TV Show,Hidden Truths,Chen Wei,Actor G,United States,"June 26, 2021",1997,G,2 Seasons,Romantic Movies,A heartfelt comedy about friendship.
+s0204,Movie,Undercover Agent,Liam O'Connor,Actor D,United Kingdom,"June 6, 2019",1986,G,146 min,Comedies,An inspiring journey through the world of tech.
+s0205,Movie,Love & Algorithms,Alex Kim,"Actor A, Actor D",Germany,"July 5, 2017",1982,G,143 min,Kids' TV,An inspiring journey through the world of tech.
+s0206,TV Show,Lost in Translation,Liam O'Connor,"Actor G, Actor A, Actor E",Germany,"February 17, 2015",1991,PG-13,9 Seasons,Dramas,A documentary on climate change and hope.
+s0207,Movie,Digital Wars,Chen Wei,"Actor A, Actor E, Actor D",United States,"June 7, 2019",2016,TV-PG,98 min,Action & Adventure,A documentary on climate change and hope.
+s0208,TV Show,Riverbend,Priya Patel,"Actor B, Actor A",Spain,"January 8, 2023",2002,NR,1 Seasons,Crime TV Shows,A gripping tale of love and betrayal.
+s0209,TV Show,Ocean Secrets 68,Priya Patel,"Actor D, Actor A, Actor B, Actor C",India,"January 8, 2023",2006,NR,6 Seasons,Sci-Fi & Fantasy,A heartfelt comedy about friendship.
+s0210,Movie,Riverbend 18,Fatima Zahra,Actor E,United States,"July 22, 2017",1995,TV-14,93 min,Crime TV Shows,An investigative look into modern crime.
+s0211,TV Show,Family Ties,Chen Wei,"Actor A, Actor B",United Kingdom,"October 4, 2017",1986,PG-13,8 Seasons,Sci-Fi & Fantasy,A family learns the meaning of sacrifice.
+s0212,TV Show,Cooking with Stars,Priya Patel,"Actor C, Actor D, Actor G, Actor A",India,"March 26, 2019",2024,G,1 Seasons,Action & Adventure,An investigative look into modern crime.
+s0213,TV Show,Hidden Truths 32,Liam O'Connor,"Actor E, Actor A, Actor C, Actor G",United Kingdom,"January 13, 2022",2015,NR,9 Seasons,Action & Adventure,A gripping tale of love and betrayal.
+s0214,TV Show,Cooking with Stars,John Smith,Actor A,United States,"April 5, 2018",2005,TV-14,2 Seasons,Romantic Movies,An investigative look into modern crime.
+s0215,Movie,Stranger Nights,Priya Patel,"Actor G, Actor B, Actor A, Actor C",India,"January 15, 2015",1990,G,115 min,Kids' TV,A documentary on climate change and hope.
+s0216,Movie,The Last Chef,John Smith,"Actor B, Actor G, Actor C",France,"August 5, 2015",2019,G,138 min,Action & Adventure,A heartfelt comedy about friendship.
+s0217,TV Show,Undercover Agent,,Actor A,France,"July 5, 2021",1992,NR,9 Seasons,Action & Adventure,A heartfelt comedy about friendship.
+s0218,Movie,The Last Chef,Liam O'Connor,"Actor E, Actor D, Actor C, Actor G",Spain,"May 6, 2015",2000,G,88 min,Dramas,An investigative look into modern crime.
+s0219,TV Show,Love & Algorithms,,"Actor G, Actor E, Actor B",United Kingdom,"February 8, 2018",1997,G,1 Seasons,Action & Adventure,A thrilling chase across continents.
+s0220,TV Show,Quantum Leap,John Smith,"Actor B, Actor E",Germany,"December 23, 2020",2017,TV-MA,6 Seasons,Documentaries,A thrilling chase across continents.
+s0221,Movie,Undercover Agent,John Smith,"Actor A, Actor G, Actor F, Actor B",Canada,"January 17, 2022",1980,TV-14,138 min,Action & Adventure,An investigative look into modern crime.
+s0222,Movie,Family Ties,Liam O'Connor,Actor A,United Kingdom,"October 23, 2017",1987,TV-PG,127 min,Crime TV Shows,A gripping tale of love and betrayal.
+s0223,TV Show,The Last Chef,Liam O'Connor,"Actor C, Actor B, Actor F",Spain,"November 16, 2020",1991,NR,9 Seasons,Crime TV Shows,An inspiring journey through the world of tech.
+s0224,Movie,The Last Chef,Chen Wei,"Actor B, Actor F",United States,"December 19, 2021",2016,TV-MA,83 min,Crime TV Shows,An investigative look into modern crime.
+s0225,Movie,Riverbend 64,John Smith,"Actor F, Actor A, Actor B",Germany,"June 6, 2016",2022,NR,102 min,Sci-Fi & Fantasy,A gripping tale of love and betrayal.
+s0226,TV Show,Midnight City 9,Liam O'Connor,"Actor G, Actor A, Actor F",United States,"July 15, 2021",1990,R,8 Seasons,Kids' TV,A family learns the meaning of sacrifice.
+s0227,TV Show,Cooking with Stars,Priya Patel,"Actor D, Actor A",United States,"May 1, 2020",1996,TV-MA,2 Seasons,Crime TV Shows,An inspiring journey through the world of tech.
+s0228,TV Show,Galaxy Quest,Maria Lopez,"Actor E, Actor G, Actor D",United States,"July 21, 2017",2018,R,3 Seasons,Dramas,A gripping tale of love and betrayal.
+s0229,TV Show,Midnight City,Fatima Zahra,"Actor F, Actor C, Actor G",Canada,"February 2, 2021",2016,G,8 Seasons,Documentaries,A gripping tale of love and betrayal.
+s0230,TV Show,Stranger Nights,Chen Wei,"Actor B, Actor A, Actor F, Actor G",United Kingdom,"November 10, 2016",2010,TV-PG,2 Seasons,Romantic Movies,An investigative look into modern crime.
+s0231,TV Show,Undercover Agent,Chen Wei,Actor F,,"July 6, 2020",2004,TV-14,3 Seasons,Sci-Fi & Fantasy,A gripping tale of love and betrayal.
+s0232,TV Show,Digital Wars,Priya Patel,"Actor E, Actor A, Actor B",India,"February 22, 2020",2014,R,10 Seasons,Action & Adventure,A thrilling chase across continents.
+s0233,Movie,The Last Chef,Fatima Zahra,"Actor E, Actor B, Actor D, Actor C",India,"July 28, 2015",2012,G,126 min,Documentaries,A gripping tale of love and betrayal.
+s0234,TV Show,Galaxy Quest,John Smith,"Actor G, Actor B",United Kingdom,"January 14, 2016",2023,R,4 Seasons,Documentaries,An investigative look into modern crime.
+s0235,TV Show,Family Ties,Maria Lopez,Actor D,,"July 18, 2020",1997,G,8 Seasons,Dramas,An investigative look into modern crime.
+s0236,TV Show,Cooking with Stars,John Smith,Actor A,India,"May 28, 2023",2002,R,5 Seasons,Kids' TV,A heartfelt comedy about friendship.
+s0237,TV Show,Riverbend,Alex Kim,"Actor C, Actor D",United Kingdom,"October 20, 2021",1982,R,6 Seasons,Action & Adventure,A gripping tale of love and betrayal.
+s0238,TV Show,Crime Line,Alex Kim,"Actor G, Actor C, Actor F",France,"August 28, 2016",1994,PG-13,5 Seasons,Sci-Fi & Fantasy,An investigative look into modern crime.
+s0239,TV Show,Crime Line,Maria Lopez,"Actor D, Actor B",Spain,"December 16, 2023",2003,TV-PG,1 Seasons,Documentaries,A gripping tale of love and betrayal.
+s0240,TV Show,Memoirs,Alex Kim,"Actor B, Actor G",United States,"April 2, 2022",1983,TV-14,4 Seasons,Romantic Movies,A family learns the meaning of sacrifice.
+s0241,TV Show,Memoirs,Maria Lopez,Actor B,Germany,"August 20, 2022",1991,TV-PG,8 Seasons,Crime TV Shows,A family learns the meaning of sacrifice.
+s0242,Movie,Crime Line,Maria Lopez,"Actor A, Actor D, Actor G",United Kingdom,"October 25, 2018",1994,NR,88 min,Action & Adventure,A family learns the meaning of sacrifice.
+s0243,TV Show,Memoirs 99,Alex Kim,"Actor B, Actor F, Actor G, Actor A",Canada,"May 20, 2019",2021,TV-14,7 Seasons,Kids' TV,An investigative look into modern crime.
+s0244,TV Show,Digital Wars,,"Actor F, Actor E, Actor G",Spain,"October 4, 2015",2012,NR,6 Seasons,Romantic Movies,A family learns the meaning of sacrifice.
+s0245,Movie,Undercover Agent 36,Liam O'Connor,"Actor C, Actor F, Actor G",Canada,"March 17, 2018",1983,TV-PG,136 min,Kids' TV,A heartfelt comedy about friendship.
+s0246,TV Show,Hidden Truths,,"Actor C, Actor D, Actor F",Spain,"December 2, 2024",2016,TV-PG,4 Seasons,Crime TV Shows,A heartfelt comedy about friendship.
+s0247,Movie,The Long Road,,"Actor E, Actor C, Actor B",,"March 10, 2016",2010,PG-13,93 min,Documentaries,A heartfelt comedy about friendship.
+s0248,TV Show,The Final Episode 29,Chen Wei,"Actor G, Actor C, Actor F, Actor E",France,"August 28, 2016",2010,TV-MA,10 Seasons,Comedies,A documentary on climate change and hope.
+s0249,Movie,Memoirs 88,Fatima Zahra,"Actor D, Actor A, Actor B",United Kingdom,"April 11, 2021",2016,R,78 min,Crime TV Shows,An investigative look into modern crime.
+s0250,Movie,The Final Episode,John Smith,"Actor F, Actor A, Actor G",Australia,"May 7, 2017",2016,TV-PG,80 min,Sci-Fi & Fantasy,An investigative look into modern crime.
+s0251,Movie,Hidden Truths,Fatima Zahra,"Actor D, Actor G, Actor F, Actor A",United States,"September 7, 2020",1980,TV-14,127 min,Action & Adventure,A gripping tale of love and betrayal.
+s0252,Movie,Lost in Translation 45,Chen Wei,"Actor A, Actor D",,"October 10, 2017",1984,TV-PG,65 min,Romantic Movies,A family learns the meaning of sacrifice.
+s0253,TV Show,Memoirs,Liam O'Connor,"Actor F, Actor B, Actor C, Actor D",Germany,"April 6, 2021",1981,PG-13,4 Seasons,Documentaries,An inspiring journey through the world of tech.
+s0254,Movie,Riverbend,Maria Lopez,"Actor F, Actor G, Actor A",Spain,"November 9, 2023",2019,TV-MA,136 min,Dramas,A heartfelt comedy about friendship.
+s0255,Movie,Stranger Nights 15,Fatima Zahra,"Actor D, Actor A, Actor E, Actor C",Australia,"December 5, 2018",2024,NR,140 min,Dramas,A family learns the meaning of sacrifice.
+s0256,TV Show,Cooking with Stars,Chen Wei,"Actor D, Actor A",,"December 20, 2016",1998,TV-MA,2 Seasons,Sci-Fi & Fantasy,An inspiring journey through the world of tech.
+s0257,Movie,Crime Line,Priya Patel,"Actor F, Actor D, Actor C",United Kingdom,"January 18, 2022",1993,NR,121 min,Crime TV Shows,An inspiring journey through the world of tech.
+s0258,Movie,Stranger Nights,Maria Lopez,"Actor B, Actor A, Actor E, Actor F",India,"May 21, 2018",2009,TV-14,93 min,Sci-Fi & Fantasy,A gripping tale of love and betrayal.
+s0259,Movie,Galaxy Quest,Chen Wei,"Actor G, Actor F, Actor C",Spain,"December 4, 2016",1982,TV-MA,77 min,Documentaries,A family learns the meaning of sacrifice.
+s0260,TV Show,Digital Wars,Chen Wei,Actor C,Germany,"March 4, 2021",2005,R,5 Seasons,Kids' TV,A heartfelt comedy about friendship.
+s0261,TV Show,Office Romance,John Smith,Actor B,United States,"March 4, 2021",2017,R,10 Seasons,Sci-Fi & Fantasy,An inspiring journey through the world of tech.
+s0262,TV Show,Quantum Leap,John Smith,"Actor D, Actor A, Actor G, Actor E",United States,"February 9, 2020",1980,NR,9 Seasons,Action & Adventure,A heartfelt comedy about friendship.
+s0263,TV Show,Memoirs,Maria Lopez,"Actor F, Actor G, Actor B, Actor D",Germany,"November 22, 2021",1989,TV-PG,9 Seasons,Dramas,A gripping tale of love and betrayal.
+s0264,Movie,Memoirs,,"Actor A, Actor D",Germany,"April 11, 2019",1983,G,88 min,Kids' TV,A documentary on climate change and hope.
+s0265,Movie,The Final Episode,,Actor G,Australia,"August 11, 2016",2011,NR,143 min,Dramas,A gripping tale of love and betrayal.
+s0266,TV Show,Office Romance 71,Alex Kim,Actor G,France,"September 18, 2018",2021,NR,8 Seasons,Crime TV Shows,A family learns the meaning of sacrifice.
+s0267,Movie,Lost in Translation,Liam O'Connor,"Actor F, Actor G, Actor C, Actor D",India,"February 25, 2018",1980,TV-14,105 min,Romantic Movies,A thrilling chase across continents.
+s0268,TV Show,Cooking with Stars 22,,"Actor G, Actor F",Spain,"February 9, 2024",1992,PG-13,2 Seasons,Kids' TV,An inspiring journey through the world of tech.
+s0269,TV Show,Midnight City,Maria Lopez,"Actor A, Actor F, Actor E, Actor G",Australia,"August 22, 2024",2012,PG-13,8 Seasons,Dramas,A thrilling chase across continents.
+s0270,Movie,The Long Road,,"Actor F, Actor E",United Kingdom,"December 27, 2017",1986,R,144 min,Crime TV Shows,A thrilling chase across continents.
+s0271,TV Show,Office Romance,Priya Patel,"Actor D, Actor C, Actor F",Australia,"March 5, 2021",2018,NR,9 Seasons,Romantic Movies,An investigative look into modern crime.
+s0272,TV Show,The Long Road,Priya Patel,"Actor E, Actor F",France,"November 12, 2017",2021,PG-13,9 Seasons,Crime TV Shows,A heartfelt comedy about friendship.
+s0273,Movie,Quantum Leap,Fatima Zahra,"Actor G, Actor D, Actor A",,"February 1, 2021",1989,TV-MA,145 min,Dramas,An inspiring journey through the world of tech.
+s0274,TV Show,Galaxy Quest,Chen Wei,"Actor G, Actor A",France,"April 25, 2023",1982,TV-14,8 Seasons,Comedies,A thrilling chase across continents.
+s0275,Movie,The Long Road,Chen Wei,Actor D,Spain,"July 26, 2020",2015,TV-MA,61 min,Romantic Movies,An inspiring journey through the world of tech.
+s0276,TV Show,Lost in Translation,Liam O'Connor,"Actor G, Actor F",Canada,"May 15, 2017",2023,TV-MA,3 Seasons,Documentaries,A heartfelt comedy about friendship.
+s0277,Movie,The Last Chef 36,Chen Wei,"Actor B, Actor E",France,"January 11, 2022",1989,TV-MA,79 min,Crime TV Shows,A thrilling chase across continents.
+s0278,Movie,Silent Echoes,Chen Wei,"Actor G, Actor E, Actor F, Actor C",India,"December 11, 2023",1994,PG-13,126 min,Comedies,An investigative look into modern crime.
+s0279,Movie,Office Romance,Fatima Zahra,Actor C,Canada,"April 22, 2020",2001,TV-14,97 min,Action & Adventure,An investigative look into modern crime.
+s0280,TV Show,The Long Road,Alex Kim,Actor F,Germany,"August 8, 2024",2019,PG-13,1 Seasons,Crime TV Shows,A documentary on climate change and hope.
+s0281,Movie,The Last Chef,Chen Wei,Actor E,Germany,"September 26, 2023",2008,R,65 min,Romantic Movies,A heartfelt comedy about friendship.
+s0282,Movie,Family Ties,Maria Lopez,"Actor G, Actor E",,"January 21, 2016",1993,NR,140 min,Action & Adventure,An investigative look into modern crime.
+s0283,TV Show,Cooking with Stars 90,Fatima Zahra,Actor F,United Kingdom,"January 15, 2020",1982,TV-MA,2 Seasons,Dramas,An inspiring journey through the world of tech.
+s0284,TV Show,The Long Road 30,Chen Wei,"Actor D, Actor G, Actor F, Actor E",Germany,"January 13, 2016",2014,TV-MA,10 Seasons,Comedies,An investigative look into modern crime.
+s0285,Movie,The Final Episode,Maria Lopez,"Actor G, Actor F, Actor C",India,"May 25, 2022",2004,R,144 min,Dramas,A documentary on climate change and hope.
+s0286,Movie,The Long Road 96,Fatima Zahra,"Actor F, Actor B, Actor C",Germany,"January 18, 2023",1989,TV-MA,65 min,Dramas,A thrilling chase across continents.
+s0287,TV Show,The Long Road,Maria Lopez,"Actor B, Actor F, Actor C",Canada,"July 21, 2023",1989,PG-13,3 Seasons,Action & Adventure,A thrilling chase across continents.
+s0288,TV Show,Midnight City 86,Alex Kim,"Actor F, Actor E, Actor A, Actor C",India,"May 4, 2018",2017,R,6 Seasons,Crime TV Shows,An inspiring journey through the world of tech.
+s0289,Movie,Cooking with Stars,Maria Lopez,"Actor C, Actor D",Australia,"June 20, 2019",2024,G,79 min,Crime TV Shows,An investigative look into modern crime.
+s0290,TV Show,Office Romance 41,Priya Patel,"Actor F, Actor G",Spain,"May 27, 2020",1988,NR,6 Seasons,Sci-Fi & Fantasy,A documentary on climate change and hope.
+s0291,TV Show,Quantum Leap,,Actor B,India,"May 28, 2017",2014,PG-13,5 Seasons,Comedies,A heartfelt comedy about friendship.
+s0292,Movie,Stranger Nights,Alex Kim,"Actor G, Actor E, Actor B, Actor A",,"May 18, 2023",2010,NR,79 min,Crime TV Shows,A documentary on climate change and hope.
+s0293,Movie,Riverbend,Chen Wei,"Actor D, Actor E",,"February 13, 2020",2012,TV-MA,144 min,Action & Adventure,An investigative look into modern crime.
+s0294,Movie,Memoirs 21,John Smith,"Actor F, Actor G",Australia,"June 2, 2018",2011,PG-13,68 min,Romantic Movies,A family learns the meaning of sacrifice.
+s0295,Movie,Love & Algorithms,Liam O'Connor,"Actor D, Actor G, Actor A, Actor E",Germany,"February 23, 2023",2020,TV-PG,95 min,Romantic Movies,A thrilling chase across continents.
+s0296,Movie,The Last Chef,Liam O'Connor,Actor E,France,"July 8, 2023",2005,TV-14,104 min,Sci-Fi & Fantasy,An investigative look into modern crime.
+s0297,TV Show,Silent Echoes 18,,"Actor B, Actor A",,"November 9, 2018",1989,PG-13,3 Seasons,Crime TV Shows,A thrilling chase across continents.
+s0298,Movie,Lost in Translation,Liam O'Connor,Actor D,Australia,"August 7, 2024",1990,NR,112 min,Dramas,An inspiring journey through the world of tech.
+s0299,Movie,Hidden Truths,John Smith,"Actor F, Actor E",United States,"October 5, 2015",1990,TV-14,83 min,Kids' TV,A thrilling chase across continents.
+s0300,Movie,Ocean Secrets,Priya Patel,"Actor E, Actor D, Actor F, Actor B",Canada,"July 20, 2017",2017,TV-PG,83 min,Romantic Movies,An inspiring journey through the world of tech.
